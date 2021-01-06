@@ -8,10 +8,10 @@ An arduino device that connects various household hazard sensors and gives you m
   * Writing to LCD Displays
   * Working with a GSM Shield
 * Libraries
- * GSM Library
- * OSEPP Library
- * LCD Library
- * Sound Library
+  * GSM Library
+  * OSEPP Library
+  * LCD Library
+  * Sound Library
 * Electronics
   * Wiring up LCD
   * Wiring Sensors
